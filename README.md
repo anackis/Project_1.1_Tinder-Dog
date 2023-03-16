@@ -1,5 +1,5 @@
 # ProjectNr1.1
-Tinder Dog App (HTML + SASS + GULP) 
+Tinder Dog App for your dog (HTML + SASS + GULP) 
 
 ![localhost_3000_](https://user-images.githubusercontent.com/61510461/225606815-33c0fa0f-3999-4e54-8d05-2d8647baef5f.png)
 
